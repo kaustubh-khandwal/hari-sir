@@ -1,0 +1,90 @@
+#anjalimam{
+margin-left: 500px;
+}
+.marquee{
+    font-size: 30px;
+}
+.campuslife_mainDiv {
+    border: 1px solid #c7c7c7;
+    margin-left: 0%;
+    width: 350px;
+    float: none;
+}
+.campuslife_mainDiv1 {
+    position: absolute;
+    left: 900px;
+    top: 1052px;
+    width: 350px;
+    float: none;
+    border: 1px solid #c7c7c7;
+    margin-top: 0px;
+}
+.campuslife_mainDiv img {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+.campuslife_mainDiv1 img {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+.text-capitalize {
+    margin-left: 25px;
+}
+.text-capitalize1 {
+    margin-left: 25px;
+}
+
+.campuslife_mainDiv1 hr {
+    width: 230px;
+}
+.campuslife_mainDiv hr {
+    width: 230px;
+}
+.campuslife_mainDiv1 h5,
+.campuslife_mainDiv1 p {
+    margin-left: 25px;
+}
+.campuslife_mainDiv h5,
+.campuslife_mainDiv p {
+    margin-left: 25px;
+}
+.Achievements_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
+.Achievements_head i {
+    float: right;
+}
+.sections{
+    padding: 100px;
+}
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+} 
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
